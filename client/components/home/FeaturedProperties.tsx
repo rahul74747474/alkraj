@@ -57,7 +57,7 @@ export default function FeaturedProperties() {
           <h2 className="text-2xl md:text-3xl font-extrabold text-primary">Featured Properties</h2>
           <p className="text-muted-foreground mt-2">Handpicked listings for premium living.</p>
         </div>
-        <a href="/properties" className="hidden md:inline-flex text-sm underline underline-offset-4 hover:opacity-80">View all</a>
+        <a href="/" className="hidden md:inline-flex text-sm underline underline-offset-4 hover:opacity-80">View all</a>
       </div>
 
       <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
